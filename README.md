@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sameerjoshi1
+- 👀 I’m interested in software development using python and flutter
+- 🌱 I’m currently in the deep end of data science (help!).
+- 💞️ I’m looking to collaborate on data science projects involving python, and app development proejcts using flutter.
